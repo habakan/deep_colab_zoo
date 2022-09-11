@@ -11,3 +11,4 @@
 
 ## Video Recognition
 - [MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation](./video/action-segmentation/MS_TCN_Multi_Stage_Temporal_Convolutional_Network_for_Action_Segmentation.ipynb)
+- [Alleviating Over-segmentation Errors by Detecting Action Boundaries](./video/action-segmentation/Alleviating_Over_segmentation_Errors_by_Detecting_Action_Boundaries.ipynb)
